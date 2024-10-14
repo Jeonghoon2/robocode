@@ -1,0 +1,15 @@
+{
+  "name": "JMTank",
+  "version": "1.0",
+  "authors": [
+    "JH"
+  ],
+  "description": "I'll blow up your tank so fucking deliciously",
+  "homepage": "",
+  "countryCodes": [
+    "us",
+    "dk"
+  ],
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}
