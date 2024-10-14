@@ -2,13 +2,12 @@
   "name": "JMTank",
   "version": "1.0",
   "authors": [
-    "JH"
+    "Jeong"
   ],
-  "description": "I'll blow up your tank so fucking deliciously",
+  "description": "Sits still. Tracks and fires at the nearest bot it sees.",
   "homepage": "",
   "countryCodes": [
-    "us",
-    "dk"
+    "kr"
   ],
   "platform": "JVM",
   "programmingLang": "Java 11"

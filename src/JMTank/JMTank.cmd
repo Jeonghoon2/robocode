@@ -1,1 +1,1 @@
-java -cp ../lib/* JMTank.java >nul
+java -cp ../lib/* TrackFire.java >nul
