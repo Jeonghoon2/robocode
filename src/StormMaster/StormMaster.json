@@ -1,0 +1,15 @@
+{
+  "name": "StormMaster",
+  "version": "1.0",
+  "authors": [
+    "soojin"
+  ],
+  "description": "I'm Storm Master !!.",
+  "homepage": "",
+  "countryCodes": [
+    "us",
+    "dk"
+  ],
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}
